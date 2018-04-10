@@ -6,9 +6,12 @@
 
 
 ## How to Submit:
-Copy and paste the completed contents of the test.erb file.
+Copy and paste the completed contents of the index.html file.
 Email me the code with the subject line:
 - Mini Lab 4 (FrontEnd)
+
+## Lab Setup
+You can choose to clone this lab or, alternatively, you may copy and paste the content of index.html into a Mozilla Thimble file.
 
 ## Instructions:
 The index.html file contains a very basic webpage template with the Bootstrap source files included.
